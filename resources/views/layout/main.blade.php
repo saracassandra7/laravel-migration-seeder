@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     @vite('resources/js/app.js')
-    <title>Document</title>
+    <title>Trains</title>
 </head>
 <body>
 
